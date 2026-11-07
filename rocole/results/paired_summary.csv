@@ -1,0 +1,4 @@
+dose_pct,n_seeds,accuracy_mean_pp,accuracy_sd_pp,macro_f1_mean_pp,macro_f1_sd_pp,ece_mean_pp,ece_sd_pp
+10,3,1.422,2.172,1.499,2.261,-0.011,1.429
+20,3,3.002,3.156,2.949,3.316,-0.902,1.864
+40,3,6.003,1.794,6.091,1.765,-2.108,1.495
