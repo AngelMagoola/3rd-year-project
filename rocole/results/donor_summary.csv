@@ -1,0 +1,5 @@
+dose_pct,donor,photos_per_seed,n_seeds,accuracy_delta_mean_pp,accuracy_delta_sd_pp
+10,false,114,3,0.585,2.208
+10,true,97,3,2.405,2.381
+20,false,17,3,-3.922,8.985
+20,true,194,3,3.608,3.608

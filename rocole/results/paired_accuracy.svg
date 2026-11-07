@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-labelledby="title desc">
+<title id="title">Mean paired accuracy change by leakage dose</title><desc id="desc">Across three seeds, means were 1.422, 3.002, and 6.003 percentage points at 10, 20, and 40 percent replacement. Whiskers show one sample standard deviation.</desc>
+<rect width="640" height="300" fill="white"/>
+<g font-family="sans-serif" fill="#14243a"><text x="30" y="32" font-size="21">Test accuracy change versus the 0% control</text><text x="30" y="55" font-size="13">Percentage points · mean ± sample SD · three seeds</text>
+<text x="36" y="108">10%</text><text x="36" y="161">20%</text><text x="36" y="214">40%</text>
+<text x="198" y="260">0</text><text x="296" y="260">2</text><text x="396" y="260">4</text><text x="496" y="260">6</text><text x="596" y="260">8</text>
+<text x="225" y="287" font-size="13">Share of training images replaced shown at left</text></g>
+<path d="M200 74V235 M100 235H600" fill="none" stroke="#8c9cad"/>
+<path d="M162.5 103H379.7 M162.5 97V109 M379.7 97V109 M192.3 156H507.9 M192.3 150V162 M507.9 150V162 M410.45 209H589.85 M410.45 203V215 M589.85 203V215" fill="none" stroke="#245487" stroke-width="2"/>
+<g fill="#245487"><circle cx="271.1" cy="103" r="5"/><circle cx="350.1" cy="156" r="5"/><circle cx="500.15" cy="209" r="5"/></g>
+</svg>
