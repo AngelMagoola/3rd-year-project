@@ -1,0 +1,10 @@
+comparison,metric,mean_delta_pp,sample_sd_pp,n_seeds
+test_derived_minus_clean,accuracy,-6.974,24.880,3
+test_derived_minus_clean,ece,12.964,26.207,3
+test_derived_minus_clean,macro_f1,-4.928,22.620,3
+test_derived_minus_training_derived,accuracy,-35.229,19.905,3
+test_derived_minus_training_derived,ece,18.243,11.827,3
+test_derived_minus_training_derived,macro_f1,-27.903,16.018,3
+training_derived_minus_clean,accuracy,28.255,30.691,3
+training_derived_minus_clean,ece,-5.279,22.352,3
+training_derived_minus_clean,macro_f1,22.975,28.406,3

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="960" viewBox="0 0 1440 960">
+<rect x="0" y="0" width="1440" height="960" fill="#ffffff"/>
+<text x="65" y="67" fill="#14242b" font-family="Arial,sans-serif" font-size="42" font-weight="700" text-anchor="start">The accuracy gain reversed on new photos</text>
+<text x="65" y="105" fill="#43565e" font-family="Arial,sans-serif" font-size="24" font-weight="400" text-anchor="start">MobileNetV2 coffee leaf rust classification  |  Three paired runs</text>
+<text x="65" y="166" fill="#14242b" font-family="Arial,sans-serif" font-size="27" font-weight="700" text-anchor="start">A   Accuracy difference between the two 40% conditions</text>
+<text x="65" y="197" fill="#43565e" font-family="Arial,sans-serif" font-size="21" font-weight="400" text-anchor="start">Test-photo edits minus matched training-photo edits, in percentage points</text>
+<line x1="280" y1="215" x2="280" y2="369" stroke="#dce5e8" stroke-width="1" stroke-dasharray=""/>
+<text x="280" y="397" fill="#43565e" font-family="Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">−40</text>
+<line x1="480" y1="215" x2="480" y2="369" stroke="#dce5e8" stroke-width="1" stroke-dasharray=""/>
+<text x="480" y="397" fill="#43565e" font-family="Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">−30</text>
+<line x1="680" y1="215" x2="680" y2="369" stroke="#dce5e8" stroke-width="1" stroke-dasharray=""/>
+<text x="680" y="397" fill="#43565e" font-family="Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">−20</text>
+<line x1="880" y1="215" x2="880" y2="369" stroke="#dce5e8" stroke-width="1" stroke-dasharray=""/>
+<text x="880" y="397" fill="#43565e" font-family="Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">−10</text>
+<line x1="1080" y1="215" x2="1080" y2="369" stroke="#233e48" stroke-width="2" stroke-dasharray=""/>
+<text x="1080" y="397" fill="#43565e" font-family="Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">0</text>
+<line x1="1280" y1="215" x2="1280" y2="369" stroke="#dce5e8" stroke-width="1" stroke-dasharray=""/>
+<text x="1280" y="397" fill="#43565e" font-family="Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">10</text>
+<text x="65" y="265" fill="#14242b" font-family="Arial,sans-serif" font-size="23" font-weight="700" text-anchor="start">RoCoLe test set</text>
+<rect x="1080" y="236" width="126.38000000000011" height="43" fill="#b44e26"/>
+<text x="1220.38" y="265" fill="#b44e26" font-family="Arial,sans-serif" font-size="23" font-weight="700" text-anchor="start">+6.32</text>
+<text x="65" y="332" fill="#14242b" font-family="Arial,sans-serif" font-size="23" font-weight="700" text-anchor="start">JMuBEN and JMuBEN2</text>
+<rect x="375.4200000000001" y="303" width="704.5799999999999" height="43" fill="#087d78"/>
+<text x="389.4200000000001" y="332" fill="#ffffff" font-family="Arial,sans-serif" font-size="23" font-weight="700" text-anchor="start">−35.23</text>
+<text x="680" y="425" fill="#43565e" font-family="Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">Training-photo edits scored higher</text>
+<text x="1200" y="425" fill="#43565e" font-family="Arial,sans-serif" font-size="18" font-weight="400" text-anchor="middle">Test-photo edits scored higher</text>
+<line x1="65" y1="453" x2="1375" y2="453" stroke="#dce5e8" stroke-width="1" stroke-dasharray=""/>
+<text x="65" y="506" fill="#14242b" font-family="Arial,sans-serif" font-size="27" font-weight="700" text-anchor="start">B   External test accuracy by run</text>
+<rect x="65" y="527" width="18" height="18" fill="#788692"/>
+<text x="93" y="543" fill="#43565e" font-family="Arial,sans-serif" font-size="20" font-weight="400" text-anchor="start">0% leakage control</text>
+<rect x="390" y="527" width="18" height="18" fill="#087d78"/>
+<text x="418" y="543" fill="#43565e" font-family="Arial,sans-serif" font-size="20" font-weight="400" text-anchor="start">40% training-photo edits</text>
+<rect x="790" y="527" width="18" height="18" fill="#b44e26"/>
+<text x="818" y="543" fill="#43565e" font-family="Arial,sans-serif" font-size="20" font-weight="400" text-anchor="start">40% test-photo edits</text>
+<line x1="145" y1="825.0" x2="1370" y2="825.0" stroke="#dce5e8" stroke-width="1" stroke-dasharray=""/>
+<text x="130" y="831.0" fill="#43565e" font-family="Arial,sans-serif" font-size="18" font-weight="400" text-anchor="end">0%</text>
+<line x1="145" y1="765.0" x2="1370" y2="765.0" stroke="#dce5e8" stroke-width="1" stroke-dasharray=""/>
+<text x="130" y="771.0" fill="#43565e" font-family="Arial,sans-serif" font-size="18" font-weight="400" text-anchor="end">25%</text>
+<line x1="145" y1="705.0" x2="1370" y2="705.0" stroke="#dce5e8" stroke-width="1" stroke-dasharray=""/>
+<text x="130" y="711.0" fill="#43565e" font-family="Arial,sans-serif" font-size="18" font-weight="400" text-anchor="end">50%</text>
+<line x1="145" y1="645.0" x2="1370" y2="645.0" stroke="#dce5e8" stroke-width="1" stroke-dasharray=""/>
+<text x="130" y="651.0" fill="#43565e" font-family="Arial,sans-serif" font-size="18" font-weight="400" text-anchor="end">75%</text>
+<line x1="145" y1="585.0" x2="1370" y2="585.0" stroke="#dce5e8" stroke-width="1" stroke-dasharray=""/>
+<text x="130" y="591.0" fill="#43565e" font-family="Arial,sans-serif" font-size="18" font-weight="400" text-anchor="end">100%</text>
+<rect x="230" y="792.5928" width="70" height="32.40719999999999" fill="#788692"/>
+<text x="265" y="783.5928" fill="#14242b" font-family="Arial,sans-serif" font-size="19" font-weight="700" text-anchor="middle">13.5%</text>
+<rect x="320" y="641.8752" width="70" height="183.12480000000005" fill="#087d78"/>
+<text x="355" y="632.8752" fill="#14242b" font-family="Arial,sans-serif" font-size="19" font-weight="700" text-anchor="middle">76.3%</text>
+<rect x="410" y="748.1136" width="70" height="76.88639999999998" fill="#b44e26"/>
+<text x="445" y="739.1136" fill="#14242b" font-family="Arial,sans-serif" font-size="19" font-weight="700" text-anchor="middle">32.0%</text>
+<text x="355" y="863" fill="#14242b" font-family="Arial,sans-serif" font-size="22" font-weight="700" text-anchor="middle">Seed 42</text>
+<rect x="625" y="701.8848" width="70" height="123.11519999999996" fill="#788692"/>
+<text x="660" y="692.8848" fill="#14242b" font-family="Arial,sans-serif" font-size="19" font-weight="700" text-anchor="middle">51.3%</text>
+<rect x="715" y="659.076" width="70" height="165.92399999999998" fill="#087d78"/>
+<text x="750" y="650.076" fill="#14242b" font-family="Arial,sans-serif" font-size="19" font-weight="700" text-anchor="middle">69.1%</text>
+<rect x="805" y="776.7072000000001" width="70" height="48.29279999999994" fill="#b44e26"/>
+<text x="840" y="767.7072000000001" fill="#14242b" font-family="Arial,sans-serif" font-size="19" font-weight="700" text-anchor="middle">20.1%</text>
+<text x="750" y="863" fill="#14242b" font-family="Arial,sans-serif" font-size="22" font-weight="700" text-anchor="middle">Seed 137</text>
+<rect x="1020" y="646.0032" width="70" height="178.9968" fill="#788692"/>
+<text x="1055" y="637.0032" fill="#14242b" font-family="Arial,sans-serif" font-size="19" font-weight="700" text-anchor="middle">74.6%</text>
+<rect x="1110" y="636.0936" width="70" height="188.90639999999996" fill="#087d78"/>
+<text x="1145" y="627.0936" fill="#14242b" font-family="Arial,sans-serif" font-size="19" font-weight="700" text-anchor="middle">78.7%</text>
+<rect x="1200" y="665.8752" width="70" height="159.12480000000005" fill="#b44e26"/>
+<text x="1235" y="656.8752" fill="#14242b" font-family="Arial,sans-serif" font-size="19" font-weight="700" text-anchor="middle">66.3%</text>
+<text x="1145" y="863" fill="#14242b" font-family="Arial,sans-serif" font-size="22" font-weight="700" text-anchor="middle">Seed 911</text>
+<text x="65" y="919" fill="#43565e" font-family="Arial,sans-serif" font-size="20" font-weight="400" text-anchor="start">External evaluation used the same 27,319 screened images for all nine saved models.</text>
+</svg>
